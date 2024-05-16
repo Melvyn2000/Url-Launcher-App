@@ -1,6 +1,6 @@
-# myapp
+# Url Launcher App
 
-A new Flutter project.
+A new Flutter project inspired by -[Tuto Flutter Url Launcher of Driss AS](https://www.youtube.com/watch?v=zQuUIk8zIlE)
 
 ## Getting Started
 
